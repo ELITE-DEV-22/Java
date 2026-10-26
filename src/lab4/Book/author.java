@@ -1,4 +1,4 @@
-package lab3.Book;
+package lab4.Book;
 
 public class author {
     private String name;
